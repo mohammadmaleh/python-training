@@ -15,6 +15,6 @@ def parent_function(person, coins):
 
 tommy = parent_function("mohammad" ,3)
 jenny = parent_function("jenny",  4)
-tommy()
-tommy()
-jenny()
+tommy() # mohammad have 3 coins left
+tommy() # mohammad have 2 coins left
+jenny() # jenny have 4 coins left
